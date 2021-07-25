@@ -5,7 +5,7 @@
 3. Linux-kernel 跟 Linux 是不一样的，Linux-kernel 能叫 Linux 吗？
 4. 如果你一定要追根究底，那我确实是 Linux-kernel 套壳，但是为了全面支持Linux生态，我会在未来我会删掉 Linux-kernel 的代码
 5. 借鉴已有的开源项目是很自然的事，可能你们对开源有误解
-6. 梦弘浏览器采用微内核，比 Linux 快 600%
+6. 梦弘操作系统采用微内核，比 Linux 快 60%
 7. 不过第 6 点说的不是这个版本，而是 [monyharOS-lite](https://github.com/MonyHarOS/MonyHarOS-lite)
 
 # Acknowledgement
